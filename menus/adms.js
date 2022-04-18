@@ -29,8 +29,6 @@ const adms = (prefix) => {
 │⎘⃯⃗➢ ${prefix}antiaudio 1 / 0
 │⎘⃯⃗➢ ${prefix}antivideo 1 / 0
 │⎘⃯⃗➢ ${prefix}leveling 1 / 0  
-│⎘⃯⃗➢ ${prefix}simih 1 / 0
-│⎘⃯⃗➢ ${prefix}simih2 1 / 0
 │
 ╰┈┈┈┈┈┈┈┈┈┈┈┈┈╯`
 
